@@ -1,6 +1,47 @@
-https://github.com/hasibgalib44/Attrition-AnalyserApp
 https://github.com/hasibgalib44/Movie-App
+1) User Interface (UI) should achieve the following:
+a) User Registration
+b) User Login
+c) List Common Movies
+d) View or open a movie from the list
+e) Add movies to your favorite list
+f) View favorite movies.
+g) UI should be responsive which can run smoothly on various 
+devices.
+h) The UI should be appealing and user friendly
+
 https://github.com/hasibgalib44/grabstore-app
+
 https://github.com/hasibgalib44/author-Finder-App
+1) User Interface (UI) should achieve the following:
+a) User Registration
+b) User Login
+c) Search and view the author details 
+d) Add the author data into favorite list
+e) View favorite.
+f) UI should be responsive which can run smoothly on various 
+devices.
+g) The UI should be appealing and user friendly
 https://github.com/hasibgalib44/spotify-App
+1) User Interface (UI) should achieve the following:
+a) User Registration
+b) User Login
+c) List Common Music Tracks
+d) View a Music Track from the list
+e) Search for a music track
+f) Add a music track to your favorite list
+g) View favorite tracks
+h) UI should be responsive which can run smoothly on various 
+devices.
+i) The UI should be appealing and user friendly
+
 https://github.com/hasibgalib44/Event-Management-App
+1) User Interface (UI) should achieve the following:
+a) User Registration
+b) User Login
+c) List all events
+d) View event details basis event id
+e) Add an event to your favorite list
+f) View favorite events
+g) UI should be responsive which can run smoothly on various devices
+h) The UI should be appealing and user friendly
